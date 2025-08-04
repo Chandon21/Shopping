@@ -16,5 +16,3 @@ This is a lightweight Shopping Management System built with ASP.NET Web API (MVC
 
 ---
 
-## Project Architecture
-
